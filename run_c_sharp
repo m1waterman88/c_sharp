@@ -1,0 +1,7 @@
+# https://code.visualstudio.com/docs/languages/dotnet
+
+If not initiated with a project, run the following in the working directory:
+	dotnet new console
+
+To run the app, run this command in the working directory:
+	dotnet run
